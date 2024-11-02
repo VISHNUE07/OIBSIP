@@ -18,7 +18,7 @@ This repository contains projects completed as part of my Data Science internshi
 
 #### Methods:
 Natural Language Processing (NLP) techniques, including tokenization, text vectorization (TF-IDF), and stop-word removal, were used to process the text data.
-The models were evaluated using performance metrics such as accuracy, precision, recall, and F1-score.
+The models were evaluated using performance metrics such as accuracy, precision, recall, F1-score and Confusion Matrix.
 
 #### Technologies Used: 
 * Python, Scikit-Learn, NLTK, Pandas, Matplotlib
